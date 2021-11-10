@@ -4,6 +4,8 @@ import Styled from 'styled-components'
 import Layout from '@/components/Layout'
 import AboutContainer from '@/components/About'
 import ExperienceContainer from '@/components/Experience'
+import Footer from '@/components/Footer'
+import BlogPreview from '@/components/BlogSection'
 import { HeaderImage } from './_Styles.js'
 import Space from '@/images/mountains.jpg'
 import Typed from 'typed.js'
@@ -56,6 +58,8 @@ export default function HomeLayout() {
       </HeaderImage>
     <AboutContainer/>
     <ExperienceContainer/>
+    <BlogPreview/>
+    <Footer/>
     </div>
   )
 }

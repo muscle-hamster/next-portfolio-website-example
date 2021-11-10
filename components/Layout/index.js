@@ -10,9 +10,9 @@ const MyMain = Styled.div`
   transition: margin-right .5s;
 `
 
+  // background-color: ${({theme}) => theme.backgroundPrimary};
 const PageBase = Styled.div`
-  grid-area: Body;
-  background-color: ${({theme}) => theme.backgroundPrimary};
+  background-color: ${({theme}) => theme.white};
 `
 
 const Layout = ({ bgImage, title, description, children, header, subpageHeader }) => {

@@ -2,6 +2,8 @@ const BLACK = "#000000"
 const WHITE = "#ffffff"
 
 const myTheme = {
+  colorPrimary: "#E5E8E8",
+  colorSecondary: "#282F30",
   fontColorPrimary: "#36454F",
   black: "#000000",
   white: "#ffffff",
