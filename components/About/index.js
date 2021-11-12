@@ -16,16 +16,16 @@ const AboutContainer = () => {
       </AboutDescription>
       <AboutProgress>
         <h3>Frontend</h3>
-        <div class="progress">
-          <div class="progress-value1"></div>
+        <div className="progress">
+          <div className="progress-value1"></div>
         </div>
         <h3>Backend</h3>
-        <div class="progress">
-          <div class="progress-value2"></div>
+        <div className="progress">
+          <div className="progress-value2"></div>
         </div>
         <h3>DevOps</h3>
-        <div class="progress">
-          <div class="progress-value3"></div>
+        <div className="progress">
+          <div className="progress-value3"></div>
         </div>
       </AboutProgress>
     </AboutSectionStyles>

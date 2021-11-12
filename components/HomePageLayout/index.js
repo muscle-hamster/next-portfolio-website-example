@@ -17,7 +17,7 @@ const HomePageTyping = () => {
   React.useEffect(() => {
     const options = {
       strings: [
-        '<h1>Brock Morrison\nSoftware Engineer</h1>',
+        '<h1>Your Name Here\nSoftware Engineer</h1>',
       ],
       typeSpeed: 50,
       backSpeed: 50,

@@ -12,31 +12,31 @@ const ExperienceContainer = () => {
         <div className="container right">
           <div className="content">
             <h2>2021</h2>
-            <p>Became a Senior Software Engineer to go along with the Lead DevOps Engineer Position</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
         </div>
         <div className="container left">
           <div className="content">
             <h2>2020</h2>
-            <p>Moved to Maskcara Industries, a cosmetic company that sells nation wide in both the U.S. and Canada to work as a Software Engineer as well as lead the DevOps team</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint </p>
           </div>
         </div>
         <div className="container right">
           <div className="content">
             <h2>2019</h2>
-            <p>Moved from Associate Software Engineer to Software Engineer at PrinterLogic.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt </p>
           </div>
         </div>
         <div className="container left">
           <div className="content">
             <h2>2018</h2>
-            <p>Became Associate Software Engineer at PrinterLogic and worked on the integrations team. My job was to keep the internal services connected with 3rd party software like Salesforce</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
         </div>
         <div className="container right">
           <div className="content">
             <h2>2017</h2>
-            <p>Started as a Software Engineer Intern for PrinterLogic in St. George, Utah</p>
+            <p>SLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
           </div>
         </div>
       </div>
